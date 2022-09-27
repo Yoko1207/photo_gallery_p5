@@ -19,6 +19,12 @@ ul {
   list-style: none;
 }
 
+p {
+  display: none;
+  color: tomato;
+  background-color: aqua;
+}
+
 h2,
 h3,
 a {
@@ -51,5 +57,4 @@ img {
 /* ================================= 
   Media Queries
 ==================================== */
-
 /*# sourceMappingURL=style.css.map */
