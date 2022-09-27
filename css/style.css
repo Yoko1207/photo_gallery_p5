@@ -1,0 +1,55 @@
+/* ================================= 
+  Base Element Styles
+==================================== */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Varela Round", sans-serif;
+  line-height: 1.6;
+  color: #3a3a3a;
+  margin: 0;
+  font-size: 62.5%;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+h2,
+h3,
+a {
+  color: #093a58;
+}
+
+h2,
+h3 {
+  margin: 0 0 0.8em 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* ================================= 
+  Base Layout Styles
+==================================== */
+/* ---- Navigation ---- */
+.search {
+  color: red;
+}
+
+/* ---- Layout Containers ---- */
+/* ---- Page Elements ---- */
+/* ================================= 
+  Media Queries
+==================================== */
+
+/*# sourceMappingURL=style.css.map */
