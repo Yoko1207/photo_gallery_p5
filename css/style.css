@@ -20,12 +20,6 @@ ul {
 }
 
 h2,
-h3,
-a {
-  color: #093a58;
-}
-
-h2,
 h3 {
   margin: 0 0 0.8em 0;
 }
@@ -41,7 +35,6 @@ img {
 /* ================================= 
   Base Layout Styles
 ==================================== */
-/* ---- Navigation ---- */
 .search {
   text-align: center;
   margin: 0 auto;
@@ -54,7 +47,7 @@ img {
   margin-top: 2.3em;
   border: solid 2px #d3d3d3;
   border-radius: 5px;
-  font-size: 0.7rem;
+  font-size: 0.8rem;
 }
 
 .gallery {
@@ -73,10 +66,4 @@ img {
      object-fit: fill;
   font-size: 0;
 }
-
-/* ---- Layout Containers ---- */
-/* ---- Page Elements ---- */
-/* ================================= 
-  Media Queries
-==================================== */
 /*# sourceMappingURL=style.css.map */

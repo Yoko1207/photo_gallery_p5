@@ -1,0 +1,19 @@
+
+/* ================================= 
+  grid
+==================================== */
+.gallery {
+  margin: 2.5em auto;
+  padding: 0 6em;
+  display: grid;
+  height: 100vh;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-rows: 200px 200px 200px;
+  grid-gap: 3em 2.5em;
+  & img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    font-size: 0;
+  }
+}

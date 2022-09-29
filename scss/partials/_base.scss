@@ -1,0 +1,30 @@
+/* ================================= 
+  Base Element Styles
+==================================== */
+
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: $main-font;
+	line-height: 1.6;
+	color: $main-font-color;
+	margin: 0;
+	font-size: $main-font-size;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+h2,
+h3 {
+	margin: 0 0 .8em 0;
+}
+a {
+	text-decoration: none;
+}
+img {
+	max-width: 100%;
+}
